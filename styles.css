@@ -1,0 +1,24 @@
+body {
+    background-color: #131d4c;
+    color: #f4d402;
+    padding: 10%
+    margin: 10%;
+}
+
+.headline{
+    padding: inherit;
+    text-align: center;
+}
+
+.sub{
+  padding: inherit;
+  text-align: center;
+}
+
+article {
+    max-width: 400px;
+    padding: 10px;
+    display: inline-grid;
+    background-color: #242424;
+    border-radius: 10px;
+}
